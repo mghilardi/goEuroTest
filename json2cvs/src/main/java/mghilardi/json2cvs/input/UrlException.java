@@ -1,4 +1,4 @@
-package mghilardi.json2cvs;
+package mghilardi.json2cvs.input;
 
 public class UrlException extends Exception {
 
