@@ -6,8 +6,6 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.nio.charset.Charset;
 
-import mghilardi.json2cvs.UrlException;
-
 public class InputUrl {
 
 	public static String getUrl(String urlToCall) throws UrlException {

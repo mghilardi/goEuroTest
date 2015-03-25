@@ -1,6 +1,7 @@
 package mghilardi.json2cvs;
 
 import mghilardi.json2cvs.input.InputUrl;
+import mghilardi.json2cvs.input.UrlException;
 import mghilardi.json2cvs.output.OutputCsv;
 
 import org.json.JSONArray;
